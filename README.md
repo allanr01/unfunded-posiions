@@ -1,1 +1,1 @@
-# unfunded-posiions
+# unfunded-posiions. This is the program that processes positions that do not have funding but are requested by a school. I had some trouble working with this file while testing it when it was to be migrated to CAPAPP. I had to create a new solution file called 'New Unfunded Positions'. I was able to use the new module and corrected some errors in the original code.
